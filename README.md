@@ -36,3 +36,5 @@ o	Unresolved: Here you will be adding you problems and simultaneously resolve so
 
 9.	Task Status:
 Each team has a planned software through which they decide on their task fortnightly or monthly or daily. Which will be shown in this tab so that you are aware of what you are up to today and can update it simultaneously.
+
+For DAta Security SOlution... you can try checking this github page as its another part of solution: https://github.com/AnjaliVash/Innvovaccer_Hackathon_DataSave
